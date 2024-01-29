@@ -1,9 +1,0 @@
-
-x	cpp:S5276""\implicit conversion loses integer precision: 'size_type' (aka 'unsigned long long') to 'int'(Ù“™º8ÎîöÔÔ1
-p	cpp:S5276f"Timplicit conversion turns floating-point number into integer: 'long double' to 'int'(×ìØ¹8‘˜øÔÔ1
-X	cpp:S5276z"<implicit conversion loses integer precision: 'int' to 'char'(¢¬³è8è€îÔÔ1
-}	cpp:S5276R"\implicit conversion loses integer precision: 'size_type' (aka 'unsigned long long') to 'int'(ØÚÍÿÿÿÿÿ8è€îÔÔ1
-}	cpp:S5276n"\implicit conversion loses integer precision: 'size_type' (aka 'unsigned long long') to 'int'(á¯³Ñÿÿÿÿÿ8è€îÔÔ1
-x	cpp:S5276y"\implicit conversion loses integer precision: 'size_type' (aka 'unsigned long long') to 'int'(áÛ’¬8é€îÔÔ1
-~	cpp:S5276ƒ"\implicit conversion loses integer precision: 'size_type' (aka 'unsigned long long') to 'int'(Æî»ùùÿÿÿÿ8é€îÔÔ1
-9cpp:S125%"Remove the commented out code.(İ¯’™8şöƒÎÔ1
